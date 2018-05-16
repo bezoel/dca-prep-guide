@@ -123,3 +123,9 @@ Content may include the following:
 - [Describe how volumes are used with Docker for persistent storage](Domain_6_Storage_and_Volumes/Describe_how_volumes_are_used_with_Docker_for_persistent_storage.md)
 - [Identify the steps you would take to clean up unused images on a filesystem also on DTR](Domain_6_Storage_and_Volumes/Identify_the_steps_you_would_take_to_clean_up_unused_images_on_a_filesystem_also_on_DTR.md)
 - [Demonstrate how storage can be used across cluster nodes](Domain_6_Storage_and_Volumes/Demonstrate_how_storage_can_be_used_across_cluster_nodes.md)
+
+
+## Links
+- [Basic info](https://success.docker.com/Certification) about Exam
+- Study guide (pdf) can be found [here](https://prismic-io.s3.amazonaws.com/docker%2F8fb020bf-fe21-409c-ba02-7e0fd18276d5_dca+study+guide+v1.0.pdf)
+- [Play with Docker](http://training.play-with-docker.com/alacart/)
