@@ -28,13 +28,13 @@ Pull requests are very welcome!
 
 
 ## Table of Contents
-1. [Orchestration](domain-1-orchestration-25-of-exam)
-2. [Image Creation, Management, and Registry](domain-2-image-creation-management-and-registry-20-of-exam)
-3. [Installation and Configuration](domain-3-installation-and-configuration-15-of-exam)
-4. [Networking](domain-4-networking-15-of-exam)
-5. [Security](domain-5-security-15-of-exam)
-6. [Storage and Volumes](domain-6-storage-and-volumes-10-of-exam)
-7. [Links](links)
+1. [Orchestration](README.md#domain-1-orchestration-25-of-exam)
+2. [Image Creation, Management, and Registry](README.md#domain-2-image-creation-management-and-registry-20-of-exam)
+3. [Installation and Configuration](README.md#domain-3-installation-and-configuration-15-of-exam)
+4. [Networking](README.md#domain-4-networking-15-of-exam)
+5. [Security](README.md#domain-5-security-15-of-exam)
+6. [Storage and Volumes](README.md#domain-6-storage-and-volumes-10-of-exam)
+7. [Links](README.md#links)
 
 ## Content
 ### Domain 1: Orchestration (25% of exam)
